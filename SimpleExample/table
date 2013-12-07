@@ -1,6 +1,0 @@
-public interface table{
-	public node generateNewNode();
-	public table generatenewtable();
-	//tableArray[];
-	//
-}
